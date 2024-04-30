@@ -4,6 +4,6 @@
 
 <template>
   <main>
-    Home hello
+    Home hello hello hello
   </main>
 </template>
